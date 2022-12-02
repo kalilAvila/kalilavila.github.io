@@ -76,21 +76,6 @@
       opacity: 1;
   }
 
-  img{
-    max-width: 100%;
-  }
-  .bloco {
-    width: 800px;
-    margin: 15px;
-  }
-  .bloco img{
-    -webkit-transition: all 0.7s ease;
-    transition: all 0.7s ease;
-  }
-  .bloco img:hover {
-    -webkit-transform:scale(1.2);
-    transform:scale(1.2);
-  }
 
   body {
     margin: 0;
